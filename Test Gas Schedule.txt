@@ -1,0 +1,8 @@
+27480	10	39.5	10.5	0	0	0	0	0
+-10	10	0	50	0	0	0	0	0
+
+
+
+
+Time (sec), MFC1 Flow, 2 Flow, 3 Flow, 4 Flow, 5 Flow, 6 Flow, 7 Flow, 8 Flow
+A negative time value causes program to stop on that line.
